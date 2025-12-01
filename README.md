@@ -15,18 +15,7 @@ I’m passionate about **Full-Stack Development, Java, NLP-based AI applications
 |---------------------|-------|----------|
 | **Scaleful Technologies, Pune** | Software Developer Intern (MERN) | Dec 2024 – Feb 2025 |
 
----
 
-## 🚀 Projects  
-
-### 🍔 **Feastify – Food Order Platform (MERN)**  
-A full-stack food ordering system with authentication, admin dashboard, and live order tracking.
-
-### 🤖 **AI Resume Analyzer (Python + NLP)**  
-Extracts skills, analyzes resume content, generates ATS score, and recommends job roles.
-
-### 📈 **Trading Platform Dashboard (MERN)**  
-A stock trading mock dashboard with real-time charts, user portfolio, and JWT authentication.
 
 ---
 
@@ -69,8 +58,7 @@ A stock trading mock dashboard with real-time charts, user portfolio, and JWT au
 
 - ✉️ **Email:** snehalsable105@gmail.com  
 - 🌐 **Portfolio:** https://portfolio-website-utwm.vercel.app/  
-- 🔗 **LinkedIn:** *(Share your link if you want it added)*  
-- 💻 **GitHub:** *(Share your username if you want it added)*  
+ 
 
 ---
 
